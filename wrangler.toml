@@ -1,0 +1,3 @@
+main = "./src/index.ts"
+name = "gptzero-chat-plugin"
+compatibility_date = "2023-04-12"
