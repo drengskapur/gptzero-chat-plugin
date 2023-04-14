@@ -30,7 +30,7 @@ To install the GPTZero Chat Plugin, follow these steps:
 1. Provide the service URL:
 
     ```console
-    https://gptzero.drengskapur.workers.dev
+    https://gptzero-chat-plugin.drengskapur.workers.dev
     ```
 
 1. This plugin is still in the process of being verified: click `Continue`.
